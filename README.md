@@ -2,7 +2,7 @@
 
 ## Credit
 
-**Many thanks to [Darwin Johnson](https://github.com/schwaaweb) who constructed the entire jupyter notebook**
+**Many thanks to [Darwin Johnson](https://github.com/schwaaweb) for creating the notebook used!**
 
 ## Live!
 Note that the way nbinteract works with mybinder makes loading widgets very slow. The loading time will be proportional to the notebook size being loaded.
@@ -10,7 +10,7 @@ Note that the way nbinteract works with mybinder makes loading widgets very slow
 [Live Interactive Notebook](https://howto-publish-interactive-notebook.now.sh)
 
 ### How To Publish
-For this to work you will need to have an account with [zeit](https://zeit.co), and have install their `now` command line tool to deploy. Optionally, setting
+For this to work you'll need to have an account with [zeit](https://zeit.co), and have install their `now` command line tool to deploy. Optionally, setting
 up now with github will work just the same. 
 
 ```sh

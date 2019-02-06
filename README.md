@@ -19,6 +19,9 @@ nbinteract init
 # Convert the ipython notebook to html
 nbinteract darwins-ipywidgets-example.ipynb
 
+# Rename to something friendly, optional
+mv darwins-ipywidgets-example.ipynb darwins-ipywidgets-example.html
+
 # Add and commit the changed
 git add -A .
 git commit -m "setting up nbinteract!"

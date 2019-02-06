@@ -1,5 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/colejhudson/howto-publish-interactive-notebook/master?filepath=darwins-ipywidgets-example.ipynb)
 
+## Credit
+
+**Many thanks to [Darwin Johnson](https://github.com/schwaaweb) who constructed the entire jupyter notebook**
+
 ## Live!
 Note that the way nbinteract works with mybinder makes loading widgets very slow. The loading time will be proportional to the notebook size being loaded.
 
